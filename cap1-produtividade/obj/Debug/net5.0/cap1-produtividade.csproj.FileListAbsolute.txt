@@ -1,0 +1,16 @@
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\bin\Debug\net5.0\cap1-produtividade.exe
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\bin\Debug\net5.0\cap1-produtividade.deps.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\bin\Debug\net5.0\cap1-produtividade.runtimeconfig.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\bin\Debug\net5.0\cap1-produtividade.runtimeconfig.dev.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\bin\Debug\net5.0\cap1-produtividade.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\bin\Debug\net5.0\ref\cap1-produtividade.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\bin\Debug\net5.0\cap1-produtividade.pdb
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\obj\Debug\net5.0\cap1-produtividade.csproj.AssemblyReference.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\obj\Debug\net5.0\cap1-produtividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\obj\Debug\net5.0\cap1-produtividade.AssemblyInfoInputs.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\obj\Debug\net5.0\cap1-produtividade.AssemblyInfo.cs
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\obj\Debug\net5.0\cap1-produtividade.csproj.CoreCompileInputs.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\obj\Debug\net5.0\cap1-produtividade.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\obj\Debug\net5.0\ref\cap1-produtividade.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\obj\Debug\net5.0\cap1-produtividade.pdb
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\cap1-produtividade\obj\Debug\net5.0\cap1-produtividade.genruntimeconfig.cache
