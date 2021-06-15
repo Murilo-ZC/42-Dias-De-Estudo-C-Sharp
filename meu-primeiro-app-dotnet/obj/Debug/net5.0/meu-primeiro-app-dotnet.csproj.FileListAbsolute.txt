@@ -1,0 +1,16 @@
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.exe
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.deps.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.runtimeconfig.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.runtimeconfig.dev.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\bin\Debug\net5.0\ref\meu-primeiro-app-dotnet.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\bin\Debug\net5.0\meu-primeiro-app-dotnet.pdb
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.csproj.AssemblyReference.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.AssemblyInfoInputs.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.AssemblyInfo.cs
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\obj\Debug\net5.0\ref\meu-primeiro-app-dotnet.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.pdb
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\meu-primeiro-app-dotnet\obj\Debug\net5.0\meu-primeiro-app-dotnet.genruntimeconfig.cache
