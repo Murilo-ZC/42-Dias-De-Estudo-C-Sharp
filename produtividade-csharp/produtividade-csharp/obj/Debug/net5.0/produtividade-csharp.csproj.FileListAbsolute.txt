@@ -1,0 +1,16 @@
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\bin\Debug\net5.0\produtividade-csharp.exe
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\bin\Debug\net5.0\produtividade-csharp.deps.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\bin\Debug\net5.0\produtividade-csharp.runtimeconfig.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\bin\Debug\net5.0\produtividade-csharp.runtimeconfig.dev.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\bin\Debug\net5.0\produtividade-csharp.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\bin\Debug\net5.0\ref\produtividade-csharp.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\bin\Debug\net5.0\produtividade-csharp.pdb
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\obj\Debug\net5.0\produtividade-csharp.csproj.AssemblyReference.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\obj\Debug\net5.0\produtividade-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\obj\Debug\net5.0\produtividade-csharp.AssemblyInfoInputs.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\obj\Debug\net5.0\produtividade-csharp.AssemblyInfo.cs
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\obj\Debug\net5.0\produtividade-csharp.csproj.CoreCompileInputs.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\obj\Debug\net5.0\produtividade-csharp.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\obj\Debug\net5.0\ref\produtividade-csharp.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\obj\Debug\net5.0\produtividade-csharp.pdb
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\produtividade-csharp\produtividade-csharp\obj\Debug\net5.0\produtividade-csharp.genruntimeconfig.cache
