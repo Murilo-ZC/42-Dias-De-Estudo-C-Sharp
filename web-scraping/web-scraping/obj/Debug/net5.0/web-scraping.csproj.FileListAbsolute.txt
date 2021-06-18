@@ -1,0 +1,15 @@
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/bin/Debug/net5.0/web-scraping.deps.json
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/bin/Debug/net5.0/web-scraping.runtimeconfig.json
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/bin/Debug/net5.0/web-scraping.runtimeconfig.dev.json
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/bin/Debug/net5.0/web-scraping.dll
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/bin/Debug/net5.0/ref/web-scraping.dll
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/bin/Debug/net5.0/web-scraping.pdb
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/obj/Debug/net5.0/web-scraping.csproj.AssemblyReference.cache
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/obj/Debug/net5.0/web-scraping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/obj/Debug/net5.0/web-scraping.AssemblyInfoInputs.cache
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/obj/Debug/net5.0/web-scraping.AssemblyInfo.cs
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/obj/Debug/net5.0/web-scraping.csproj.CoreCompileInputs.cache
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/obj/Debug/net5.0/web-scraping.dll
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/obj/Debug/net5.0/ref/web-scraping.dll
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/obj/Debug/net5.0/web-scraping.pdb
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/web-scraping/web-scraping/obj/Debug/net5.0/web-scraping.genruntimeconfig.cache
