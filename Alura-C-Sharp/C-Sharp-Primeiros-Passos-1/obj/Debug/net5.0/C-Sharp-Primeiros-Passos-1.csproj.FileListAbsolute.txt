@@ -1,0 +1,16 @@
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\bin\Debug\net5.0\C-Sharp-Primeiros-Passos-1.exe
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\bin\Debug\net5.0\C-Sharp-Primeiros-Passos-1.deps.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\bin\Debug\net5.0\C-Sharp-Primeiros-Passos-1.runtimeconfig.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\bin\Debug\net5.0\C-Sharp-Primeiros-Passos-1.runtimeconfig.dev.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\bin\Debug\net5.0\C-Sharp-Primeiros-Passos-1.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\bin\Debug\net5.0\ref\C-Sharp-Primeiros-Passos-1.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\bin\Debug\net5.0\C-Sharp-Primeiros-Passos-1.pdb
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\obj\Debug\net5.0\C-Sharp-Primeiros-Passos-1.csproj.AssemblyReference.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\obj\Debug\net5.0\C-Sharp-Primeiros-Passos-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\obj\Debug\net5.0\C-Sharp-Primeiros-Passos-1.AssemblyInfoInputs.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\obj\Debug\net5.0\C-Sharp-Primeiros-Passos-1.AssemblyInfo.cs
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\obj\Debug\net5.0\C-Sharp-Primeiros-Passos-1.csproj.CoreCompileInputs.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\obj\Debug\net5.0\C-Sharp-Primeiros-Passos-1.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\obj\Debug\net5.0\ref\C-Sharp-Primeiros-Passos-1.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\obj\Debug\net5.0\C-Sharp-Primeiros-Passos-1.pdb
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Primeiros-Passos-1\obj\Debug\net5.0\C-Sharp-Primeiros-Passos-1.genruntimeconfig.cache
