@@ -6,8 +6,8 @@
     <RootNamespace>_42_Dias_De_Estudo_C_Sharp</RootNamespace>
 
     <!--Solução de problema de duplicação de código gerado-->
-    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>    
+    <!-- <GenerateAssemblyInfo>false</GenerateAssemblyInfo> -->
+    <!-- <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>     -->
 
   </PropertyGroup>
 

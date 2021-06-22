@@ -1,0 +1,16 @@
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\bin\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.exe
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\bin\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.deps.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\bin\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.runtimeconfig.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\bin\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.runtimeconfig.dev.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\bin\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\bin\Debug\net5.0\ref\C-Sharp-Orientacao-Objetos-Intro.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\bin\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.pdb
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.csproj.AssemblyReference.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.AssemblyInfoInputs.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.AssemblyInfo.cs
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.csproj.CoreCompileInputs.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\ref\C-Sharp-Orientacao-Objetos-Intro.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.pdb
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.genruntimeconfig.cache

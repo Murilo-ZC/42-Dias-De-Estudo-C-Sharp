@@ -1,5 +1,5 @@
 ﻿using System;
-namespace CSharpOrientacaoObjetosIntro
+namespace C_Sharp_Heranca_Interface
 {
     public class Cliente
     {
