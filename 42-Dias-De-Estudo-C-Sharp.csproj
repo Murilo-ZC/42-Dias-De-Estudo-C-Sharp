@@ -4,6 +4,29 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>_42_Dias_De_Estudo_C_Sharp</RootNamespace>
+
+    <!--Solução de problema de duplicação de código gerado-->
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>    
+
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\CSharpOrientacaoObjetosIntro\" />
+    <None Remove="Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\C-Sharp-Orientacao-Objetos-Intro.csproj.nuget.g.targets" />
+    <None Remove="Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\C-Sharp-Orientacao-Objetos-Intro.csproj.nuget.g.props" />
+    <None Remove="Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\C-Sharp-Orientacao-Objetos-Intro.csproj.nuget.dgspec.json" />
+    <None Remove="Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\project.nuget.cache" />
+    <None Remove="Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\project.assets.json" />
+    <None Remove="Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.AssemblyInfoInputs.cache" />
+    <None Remove="Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.assets.cache" />
+    <None Remove="Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.GeneratedMSBuildEditorConfig.editorconfig" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\CSharpOrientacaoObjetosIntro\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" />
+    <Compile Remove="Alura-C-Sharp\C-Sharp-Orientacao-Objetos-Intro\obj\Debug\net5.0\C-Sharp-Orientacao-Objetos-Intro.AssemblyInfo.cs" />
+  </ItemGroup>
 </Project>
