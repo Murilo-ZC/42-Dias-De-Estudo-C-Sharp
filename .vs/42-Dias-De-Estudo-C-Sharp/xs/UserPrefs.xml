@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{D728D4A4-4945-465D-A950-BA714656FD27}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Alura-C-Sharp/C-Sharp-Orientacao-Objetos-Intro/ContaCorrente.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Alura-C-Sharp/C-Sharp-Orientacao-Objetos-Intro/CSharpOrientacaoObjetosIntro/Program.cs">
     <Files>
-      <File FileName="Alura-C-Sharp/C-Sharp-Orientacao-Objetos-Intro/Program.cs" Line="1" Column="1" />
-      <File FileName="Alura-C-Sharp/C-Sharp-Orientacao-Objetos-Intro/ContaCorrente.cs" Line="12" Column="35" />
+      <File FileName="Alura-C-Sharp/C-Sharp-Orientacao-Objetos-Intro/CSharpOrientacaoObjetosIntro/Program.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +10,9 @@
             <Node name="42-Dias-De-Estudo-C-Sharp" expanded="True">
               <Node name="Alura-C-Sharp" expanded="True">
                 <Node name="C-Sharp-Orientacao-Objetos-Intro" expanded="True">
-                  <Node name="ContaCorrente.cs" selected="True" />
+                  <Node name="CSharpOrientacaoObjetosIntro" expanded="True">
+                    <Node name="Program.cs" selected="True" />
+                  </Node>
                 </Node>
               </Node>
             </Node>

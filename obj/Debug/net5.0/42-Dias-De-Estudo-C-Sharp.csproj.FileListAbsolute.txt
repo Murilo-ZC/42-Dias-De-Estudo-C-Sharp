@@ -1,5 +1,5 @@
-/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/obj/Debug/net5.0/42-Dias-De-Estudo-C-Sharp.csproj.AssemblyReference.cache
 /Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/obj/Debug/net5.0/42-Dias-De-Estudo-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
 /Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/obj/Debug/net5.0/42-Dias-De-Estudo-C-Sharp.AssemblyInfoInputs.cache
 /Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/obj/Debug/net5.0/42-Dias-De-Estudo-C-Sharp.AssemblyInfo.cs
 /Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/obj/Debug/net5.0/42-Dias-De-Estudo-C-Sharp.csproj.CoreCompileInputs.cache
+/Users/murilo/Documents/GitHub/42-Dias-De-Estudo-C-Sharp/obj/Debug/net5.0/42-Dias-De-Estudo-C-Sharp.csproj.AssemblyReference.cache
