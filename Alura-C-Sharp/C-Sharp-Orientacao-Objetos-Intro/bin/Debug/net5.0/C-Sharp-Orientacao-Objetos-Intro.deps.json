@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C-Sharp-Orientacao-Objetos-Intro/1.0.0": {
+        "runtime": {
+          "C-Sharp-Orientacao-Objetos-Intro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C-Sharp-Orientacao-Objetos-Intro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

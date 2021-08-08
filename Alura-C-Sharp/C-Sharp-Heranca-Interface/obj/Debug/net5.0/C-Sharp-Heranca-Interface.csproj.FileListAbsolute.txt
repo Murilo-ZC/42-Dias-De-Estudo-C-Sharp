@@ -1,0 +1,16 @@
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\bin\Debug\net5.0\C-Sharp-Heranca-Interface.exe
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\bin\Debug\net5.0\C-Sharp-Heranca-Interface.deps.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\bin\Debug\net5.0\C-Sharp-Heranca-Interface.runtimeconfig.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\bin\Debug\net5.0\C-Sharp-Heranca-Interface.runtimeconfig.dev.json
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\bin\Debug\net5.0\C-Sharp-Heranca-Interface.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\bin\Debug\net5.0\ref\C-Sharp-Heranca-Interface.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\bin\Debug\net5.0\C-Sharp-Heranca-Interface.pdb
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\obj\Debug\net5.0\C-Sharp-Heranca-Interface.csproj.AssemblyReference.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\obj\Debug\net5.0\C-Sharp-Heranca-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\obj\Debug\net5.0\C-Sharp-Heranca-Interface.AssemblyInfoInputs.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\obj\Debug\net5.0\C-Sharp-Heranca-Interface.AssemblyInfo.cs
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\obj\Debug\net5.0\C-Sharp-Heranca-Interface.csproj.CoreCompileInputs.cache
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\obj\Debug\net5.0\C-Sharp-Heranca-Interface.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\obj\Debug\net5.0\ref\C-Sharp-Heranca-Interface.dll
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\obj\Debug\net5.0\C-Sharp-Heranca-Interface.pdb
+C:\Users\muril\Documents\GitHub\42-Dias-De-Estudo-C-Sharp\Alura-C-Sharp\C-Sharp-Heranca-Interface\obj\Debug\net5.0\C-Sharp-Heranca-Interface.genruntimeconfig.cache

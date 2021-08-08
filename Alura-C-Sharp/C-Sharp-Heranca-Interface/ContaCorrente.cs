@@ -1,5 +1,5 @@
 ﻿//Coloca a classe dentro do namespace (realizae seu registro nele)
-namespace CSharpOrientacaoObjetosIntro
+namespace C_Sharp_Heranca_Interface
 {
 
     /**
